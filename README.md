@@ -1,2 +1,2 @@
-# project-ppads
-Desenvolvimento em grupo de uma aplicação funcional.
+# Projeto de Prática Profissional em ADS
+## Grupo 1
